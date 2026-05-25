@@ -1,19 +1,28 @@
 # WIKI
 # Home
+<div align="center">
 
-## Estructuras de sólidos
+# Estructuras de sólidos
 
-Las partículas que componen un sólido permanecen en su lugar gracias a las fuerzas de atracción entre ellas; por ello, los sólidos se clasifican según la disposición de sus átomos, moléculas e iones.
-
-Cuando estos componentes se agrupan sin un orden definido, se denominan **sólidos amorfos**, del griego *ámorphos*, que significa “sin forma”. En cambio, si se organizan de manera específica, se llaman **sólidos cristalinos** o **cristales**.
+</div>
 
 ---
 
-# Formas cristalinas básicas
+<table>
+<tr>
+<td width="70%">
 
-Los sólidos cristalinos se organizan en **celdas unitarias**. Existen siete tipos fundamentales de celdas unitarias que difieren en las longitudes relativas y en los ángulos de sus aristas.
+## Introducción
 
-Los tipos son:
+Las partículas que componen un sólido permanecen en su lugar gracias a las fuerzas de atracción entre ellas; por ello, los sólidos se clasifican según la disposición de sus átomos, moléculas e iones.
+
+Cuando estos componentes se agrupan sin un orden definido, se denominan **sólidos amorfos**. En cambio, si se organizan de manera específica, se llaman **sólidos cristalinos** o **cristales**.
+
+---
+
+## Formas cristalinas básicas
+
+Los sólidos cristalinos se organizan en **celdas unitarias**. Existen siete tipos fundamentales:
 
 - Cúbico
 - Tetragonal
@@ -25,104 +34,96 @@ Los tipos son:
 
 ---
 
-# Redes de Bravais
+## Redes de Bravais
 
-De acuerdo con estas formas básicas, se conforman las **redes de Bravais**, las cuales se dividen en:
+Las redes de Bravais se dividen en:
 
-- Redes simples
-- Redes centradas en la base
-- Redes centradas en el cuerpo
-- Redes centradas en las caras
+- Simples
+- Centradas en la base
+- Centradas en el cuerpo
+- Centradas en las caras
 
-## Redes simples
+### Redes simples
 
-Están compuestas por 8 átomos, moléculas o iones ubicados en cada uno de los vértices.
+Compuestas por 8 partículas en los vértices.
 
-## Redes centradas en la base
+### Redes centradas en el cuerpo
 
-Poseen dos átomos adicionales, uno en cada base opuesta. Solo aparecen en formas:
-
-- Monoclínicas
-- Ortorrómbicas
-
-## Redes centradas en el cuerpo
-
-Contienen un átomo adicional en el centro de la estructura. Aparecen en formas:
-
-- Ortorrómbicas
-- Tetragonales
-- Cúbicas
-
-## Redes centradas en las caras
-
-Presentan seis componentes adicionales, uno en cada cara de la figura. Se encuentran en:
-
-- Ortorrómbicas
-- Cúbicas
+Presentan una partícula adicional en el centro.
 
 ---
 
-# Grupos espaciales
+## Sistemas cristalinos
 
-La combinación de las 14 redes de Bravais junto con los 32 grupos de puntos cristalográficos da lugar a los **230 grupos espaciales**, los cuales describen todas las combinaciones posibles de simetría para celdas unitarias en tres dimensiones.
+### Forma cúbica
 
----
+Todos los lados son iguales y sus ángulos internos son de 90°.
 
-# Definiciones de sistemas cristalinos
+### Forma tetragonal
 
-## Forma cúbica
+Los lados `a` y `b` son iguales y distintos de `c`.
 
-En esta forma la longitud de los lados `a`, `b` y `c` es igual y todos sus ángulos internos miden 90°.
-
-## Forma tetragonal
-
-Los lados `a` y `b` son iguales y diferentes de `c`. Todos sus ángulos internos son de 90°.
-
-## Forma ortorrómbica
-
-La longitud de todos los lados es distinta y sus ángulos internos miden 90°.
-
-## Forma monoclínica
-
-La longitud de todos sus lados es distinta. Sus ángulos internos α y γ miden 90°, mientras que β es diferente.
-
-## Forma hexagonal
-
-Los lados `a` y `b` son iguales y diferentes de `c`.
+### Forma hexagonal
 
 - α = 90°
 - γ = 90°
 - β = 120°
 
-## Forma romboédrica
+---
 
-La longitud de todos sus lados es igual y todos sus ángulos internos son diferentes de 90°.
+## Bibliografía
 
-## Forma triclínica
+1. LibreTexts  
+2. Junta de Andalucía  
+3. Universidad de Sevilla  
+4. Wikibooks  
 
-La longitud de todos sus lados es diferente y todos sus ángulos internos son distintos de 90°.
+</td>
+
+<td width="30%">
+
+<div align="center">
+
+## Sistema cristalino
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cubic_polyhedron.svg/320px-Cubic_polyhedron.svg.png" width="250">
+
+### Información general
+
+| Propiedad | Valor |
+|---|---|
+| Tipo | Cristalino |
+| Redes | 14 |
+| Grupos espaciales | 230 |
+| Formas básicas | 7 |
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Bibliografía
+## Véase también
 
-- Sólidos cristalinos y amorfos. (2022, October 29).  
-  https://espanol.libretexts.org/@go/page/78074
+- Redes de Bravais
+- Cristalografía
+- Sólidos amorfos
+- Celdas unitarias
 
-- Morfología cristalina y sistemas cristalinos. Junta de Andalucía.  
-  https://edea.juntadeandalucia.es/
+---
 
-- Ayuda de GESUS. Universidad de Sevilla.  
-  https://citius.us.es/gesus/ayuda6.html
+## Referencias
 
-- La disposición de los átomos en sólidos cristalinos. (2022, October 29).  
-  https://espanol.libretexts.org/@go/page/78039
+- https://espanol.libretexts.org/
+- https://edea.juntadeandalucia.es/
+- https://en.wikibooks.org/
 
-- Introduction to Inorganic Chemistry: Metals and Alloys. Wikibooks.  
-  https://en.wikibooks.org/
+---
 
-- Grupos de puntos cristalográficos. Universidad Estatal de Iowa.  
-  https://chem.libretexts.org/@go/page/474762
+<div align="center">
 
-- Celosías Bravais. Penn State University.  
-  https://espanol.libretexts.org/@go/page/71955
+''Última actualización: 2026''
+
+</div>
