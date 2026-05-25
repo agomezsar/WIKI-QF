@@ -12,15 +12,13 @@
 <tr>
 <td width="70%">
 
-## Introducción
-
+##Introducción
 Las partículas que componen un sólido permanecen en su lugar gracias a las fuerzas de atracción entre ellas; por ello, los sólidos se clasifican según la disposición de sus átomos, moléculas e iones.
 
-Cuando estos componentes se agrupan sin un orden definido, se denominan **sólidos amorfos**. En cambio, si se organizan de manera específica, se llaman **sólidos cristalinos** o **cristales**.
-
+Cuando estos componentes se agrupan sin un orden definido, se denominan sólidos amorfos, del griego ámorphos, que significa "sin forma". En cambio, si se organizan de manera específica, se llaman sólidos cristalinos o cristales.
 ---
 
-## Formas cristalinas básicas
+##Formas cristalinas b
 
 Los sólidos cristalinos se organizan en **celdas unitarias**. Existen siete tipos fundamentales:
 
@@ -122,8 +120,3 @@ Los lados `a` y `b` son iguales y distintos de `c`.
 
 ---
 
-<div align="center">
-
-''Última actualización: 2026''
-
-</div>
