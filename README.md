@@ -2,8 +2,7 @@
 # Home
 <div align="center">
 <p style="font-family: Georgia; font-size:20px;">
-Texto estilo Wikipedia
-</p>
+
 # Estructuras de sólidos
 
 </div>
@@ -119,6 +118,6 @@ Los lados `a` y `b` son iguales y distintos de `c`.
 - https://espanol.libretexts.org/
 - https://edea.juntadeandalucia.es/
 - https://en.wikibooks.org/
-
+</p>
 ---
 
