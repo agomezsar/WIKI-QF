@@ -72,7 +72,6 @@ La longitud de sus lados es la misma y todos sus ángulos internos son distintos
 <details>
 <summary><b>Forma triclínica</b></summary>
 La longitud de todos sus lados es diferente y todos sus ángulos interiores son diferentes a 90 grados.
-  
   <img width="481" height="97" alt="image" src="https://github.com/user-attachments/assets/a4937abc-a32c-4e3d-a839-3d3cb8878083" />
 
 </details>
