@@ -28,24 +28,28 @@ Los sólidos cristalinos se organizan en celdas unitarias, existen siente tipos 
 <details>
 <summary><b>Forma cúbica</b></summary>
 La longitud de los lados a,b y c es igual y todos sus ángulos internos miden 90°.
+  
   <img width="886" height="107" alt="image" src="https://github.com/user-attachments/assets/c5a36e3e-0741-4219-8375-bf98d00dbcd5" />
 </details>
 
 <details>
 <summary><b>Forma Tetragonal</b></summary>
 Los lados a y b son iguales y diferentes de c, todos sus ángulos internos son de 90 grados.
+  
   <img width="886" height="131" alt="image" src="https://github.com/user-attachments/assets/113323a1-d25f-4b9d-826e-e030435a4af7" />
 </details>
 
 <details>
 <summary><b>Forma ortorrómbica</b></summary>
 La longitud de todos los lados es distinta y sus ángulos internos miden 90 grados.
+  
   <img width="886" height="120" alt="image" src="https://github.com/user-attachments/assets/3fbac649-5c59-43e6-b53c-a0ca4d18dbba" />
 </details>
 
 <details>
 <summary><b>Forma monoclínica</b></summary>
 La longitud de todos sus lados es distinta, sus ángulos interno Alpha y gamma miden noventa grados y son diferentes a beta.
+  
   <img width="613" height="108" alt="image" src="https://github.com/user-attachments/assets/760907c0-e9a6-4da0-a63a-4c2b35d99a28" />
 
 </details>
@@ -53,12 +57,14 @@ La longitud de todos sus lados es distinta, sus ángulos interno Alpha y gamma m
 <details>
 <summary><b>Forma hexagonal</b></summary>
 Los lados a y b son iguales y diferentes de c, sus ángulos internos Alpha y gamma son iguales y miden 90 grados mientras que beta mide 120 grados.
+  
   <img width="347" height="108" alt="image" src="https://github.com/user-attachments/assets/1e61e4bc-26de-4c32-b05e-fce2fd3e030d" />
 </details>
 
 <details>
 <summary><b>Forma romboédrica</b></summary>
 La longitud de sus lados es la misma y todos sus ángulos internos son distintos de 90 grados.
+  
   <img width="347" height="100" alt="image" src="https://github.com/user-attachments/assets/923a6d2d-3792-42bb-9440-05855b5d7320" />
 
 </details>
@@ -66,6 +72,7 @@ La longitud de sus lados es la misma y todos sus ángulos internos son distintos
 <details>
 <summary><b>Forma triclínica</b></summary>
 La longitud de todos sus lados es diferente y todos sus ángulos interiores son diferentes a 90 grados.
+  
   <img width="481" height="97" alt="image" src="https://github.com/user-attachments/assets/a4937abc-a32c-4e3d-a839-3d3cb8878083" />
 
 </details>
