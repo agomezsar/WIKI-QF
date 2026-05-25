@@ -1,7 +1,9 @@
 # WIKI
 # Home
 <div align="center">
-
+<p style="font-family: Georgia; font-size:20px;">
+Texto estilo Wikipedia
+</p>
 # Estructuras de sólidos
 
 </div>
