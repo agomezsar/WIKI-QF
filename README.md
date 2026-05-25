@@ -98,9 +98,6 @@ La combinación de estas 14 redes junto con los 32 grupos de puntos cristalográ
 <img width="250" height="235" alt="image" src="https://github.com/user-attachments/assets/6b6397ab-58c9-4d58-a074-969f6d349d84" />
 
 
-### Información general
-
-| Propiedad | Valor |
 |---|---|
 | Formas básicas | 7 |
 | Redes | 14 |
