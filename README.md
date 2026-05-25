@@ -1,5 +1,5 @@
 # WIKI
-# Home
+# INICIO
 <details>
 <summary><b>ESTRUCTURAS DE SOLIDOS</b></summary>
 
