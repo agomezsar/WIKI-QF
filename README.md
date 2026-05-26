@@ -1,11 +1,13 @@
 # WIKI
-# INICIO
+# RELACIÓN ENTRE ESTRUCTURA, MOVIMIENTO Y PROPIEDADES DE LA MATERIA.
+La materia está formada por partículas en constante interacción y movimiento. Su estructura y comportamiento permiten explicar fenómenos como la velocidad de las reacciones químicas, las propiedades de las soluciones y la organización de los sólidos.
+En esta wiki se exploran conceptos fundamentales relacionados con la teoría cinética, las propiedades coligativas y las estructuras sólidas, mostrando cómo el comportamiento microscópico de las partículas influye en las propiedades macroscópicas de la materia.
+
 <details>
-<summary><b>ESTRUCTURAS DE SOLIDOS</b></summary>
+<summary><b>TEORÍA CINÉTICO-MOLECULAR DE LOS GASES</b></summary>
 
 <div align="center">
 
-# ESTRUCTURAS DE SOLIDOS
 </div>
 
 ---
@@ -14,7 +16,209 @@
 <tr>
 <td width="70%">
 
-## INTRODUCCIÓN
+# CINÉTICA
+La cinética química es el campo de la química que se ocupa de la rapidez o velocidad con la que ocurren las reacciones químicas, es decir, la desaparición de reactivos para convertirse en productos; así como de los mecanismos de las mismas.
+
+---
+
+# POSTULADOS
+ Los sólidos cristalinos se organizan en celdas unitarias, existen siente tipos Los gases están compuestos por un gran número de partículas que se comportan como objetos duros y esféricos en un estado de movimiento aleatorio constante
+- Estas partículas se mueven en línea recta hasta que chocan con otra partícula o con las paredes del recipiente.
+- Estas partículas son mucho más pequeñas que la distancia entre ellas. Por lo tanto, la mayor parte del volumen de un gas es espacio vacío.
+- No existe fuerza de atracción entre las partículas de gas ni entre las partículas y las paredes del recipiente.
+- Las colisiones entre partículas de gas o con las paredes del recipiente son perfectamente elásticas. Ninguna partícula de gas pierde energía al colisionar con otra partícula o con las paredes del recipiente.
+- La energía cinética promedio de un conjunto de partículas de gas depende de la temperatura del gas y de nada más.
+<details>
+<summary><b>COMPROBACIONES EXPERIMENTALES</b></summary>
+<details>
+<summary><b>Movimiento constante de las particulas.</b></summary>
+El olor de un spray (por ejemplo, un ambientador) expandiéndose por una habitación.
+  
+</details>
+
+<details>
+<summary><b>Gran espacio vacío entre las particulas.</b></summary>
+Cuando tapas una jeringa y presionas el émbolo el aire se puede comprimir fácilmente, esto demuestra que las partículas están bastante separadas entre sí.
+</details>
+
+<details>
+<summary><b>Las coliciones producen presión.</b></summary>
+Cuando un globo se calienta, el gas en su interior se expande porque las partículas se mueven más rápido.
+</details>
+
+<details>
+<summary><b>Coliciones elásticas.</b></summary>
+El choque entre partículas puede compararse con bolas de billar chocando entre sí; el movimiento se transfiere sin pérdida significativa de energía.
+
+</details>
+
+<details>
+<summary><b>Relación entre presión y volumen.</b></summary>
+Cuando introduces más aire en un balón, las coliciones de las partículas aumentan, por lo tanto.
+</details>
+
+</details>
+
+
+---
+ 
+
+</td>
+
+<td width="30%">
+
+<div align="center">
+
+# PROPIEDADES
+
+Las propiedades macroscópicas de los gases dependen directamente del movimiento y la energía de sus partículas. Entre las más importantes se encuentran la presión, el volumen y la temperatura.
+
+
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+# INFORMACIÓN ADICIONAL
+<details>
+<summary><b>Propiedades macroscópicas.</b></summary>
+<details>
+<summary><b>Presión.</b></summary>
+La presión se define como la fuerza ejercida por las partículas de gas al chocar contra las paredes de  lo que lo contiene, según la teoría estas colisiones ocurren todo el tiempo y en todas las direcciones, por lo tanto, la presión aumenta si las partículas chocan con mayor frecuencia/energía
+</details>
+<details>
+<summary><b>Volumen.</b></summary>
+El volumen corresponde al espacio que ocupa un gas, gracias a la gran separación entre las partículas los gases pueden expandirse y adaptarse fácilmente a lo que lo contiene, por lo tanto, las partículas tienen menos espacio para moverse y aumentan la frecuencia de las colisiones
+</details>
+<details>
+<summary><b>Temperatura.</b></summary>
+La temperatura se traduce como la energía cinética promedio de las partículas dentro del gas, así que, cuando la temperatura aumenta las partículas se mueven más rápido 
+</details>
+
+</details>
+
+# BIBLIOGRAFIA
+<details>
+<summary><b>Referencias</b></summary>
+  
+</details>
+</details>
+
+
+<details>
+<summary><b>PROPIEDADES COLIGATIVAS</b></summary>
+
+<div align="center">
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="70%">
+
+# INTRODUCCIÓN
+Las propiedades coligativas son aquellas propiedades de las disoluciones que dependen únicamente del número de partículas de soluto disueltas en una cantidad dada de disolvente, y no de la naturaleza o identidad química de dichas partículas. Para una disolución ideal con un soluto no volátil, este comportamiento se fundamenta en la termodinámica del sistema, específicamente en la disminución del potencial químico del disolvente en presencia del soluto.
+
+
+---
+
+## MANIFESTACIONES DE LAS PROPIEDADES
+
+<details>
+<summary><b>1. Abatimiento de la presión de vapor</b></summary>
+Cuando se añade un soluto no volátil a un disolvente líquido puro, la presión de vapor de la disolución disminuye en comparación con el disolvente puro. A nivel molecular (como describe Brown), las partículas del soluto ocupan parte de la superficie del líquido, reduciendo el número de moléculas de disolvente que tienen la oportunidad de escapar hacia la fase gaseosa en un momento dado. Cuantitativamente, este fenómeno se rige por la Ley de Raoult, la cual establece que la presión de vapor de la disolución es directamente proporcional a la fracción molar del disolvente multiplicada por la presión de vapor del disolvente puro:
+<img width="294" height="36" alt="image" src="https://github.com/user-attachments/assets/c1b68e79-e634-4128-80e1-ae0d432345f9" />
+Dado que la fracción molar del disolvente siempre es menor que 1 en una disolución, la presión de vapor resultante inevitablemente disminuye.
+<br>
+
+<img width="383" height="429" alt="image" src="https://github.com/user-attachments/assets/9f1e8766-665e-4f32-b803-de4f527e18d4" />
+<img width="350" height="420" alt="image" src="https://github.com/user-attachments/assets/40167441-1047-4f15-b677-ee2832589e73" />
+
+</details>
+
+<details>
+<summary><b>2. Elevación del punto de ebullición</b></summary>
+El punto de ebullición de un líquido es la temperatura a la cual su presión de vapor se iguala a la presión atmosférica externa. Como la presencia de un soluto no volátil reduce la presión de vapor de la disolución, el sistema requiere más energía térmica (una temperatura más alta) para que su presión de vapor vuelva a alcanzar la presión externa y comience a hervir. Chang explica que este incremento en la temperatura de ebullición es directamente proporcional a la concentración molal (m) de la disolución:
+  
+<img width="158" height="38" alt="image" src="https://github.com/user-attachments/assets/e697b7a4-c185-4470-a52c-5128330bf11b" />
+
+Donde K sub e es la constante molal de elevación del punto de ebullición, una propiedad que depende exclusivamente del disolvente.
+
+<img width="641" height="466" alt="image" src="https://github.com/user-attachments/assets/6dc37fe8-fc5d-45db-98a7-16333027d259" />
+
+</details>
+
+<details>
+<summary><b>3. Abatimiento del punto de congelación</b></summary>
+El punto de congelación es la temperatura a la cual las fases líquida y sólida coexisten en equilibrio dinámico, lo que significa que sus presiones de vapor son iguales. Cuando se enfría una disolución, las partículas de soluto interfieren físicamente en el ordenamiento geométrico y la formación de los cristales del disolvente sólido. Para contrarrestar este desorden estructural y lograr la solidificación, el sistema debe perder más energía, lo que desplaza el equilibrio a una temperatura inferior a la del disolvente puro. La magnitud del descenso crioscópico se calcula mediante la relación:
+<img width="144" height="37" alt="image" src="https://github.com/user-attachments/assets/189015a3-87b0-41b8-a246-f535171cc09d" />
+Donde K sub e es la constante molal de la depresión del punto de congelación, característica de cada disolvente.
+
+<img width="657" height="312" alt="image" src="https://github.com/user-attachments/assets/26997daf-beb7-4aeb-82be-c6e0bd056baf" />
+
+</details>
+
+<details>
+<summary><b>4. Ósmosis </b></summary>
+La ósmosis es el paso neto de moléculas de disolvente a través de una membrana semipermeable (que permite el paso de disolvente pero no de soluto) desde una disolución diluida (o disolvente puro) hacia una disolución más concentrada. La presión osmótica se define como la presión hidrostática requerida para detener por completo este flujo neto de disolvente. Tanto Chang como Brown destacan que esta propiedad es crucial en sistemas biológicos y se comporta de manera análoga a la ley de los gases ideales. Para disoluciones diluidas, se expresa mediante la ecuación de van´t Hoff:
+  <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/94566103-346e-417a-8de8-b9832a9b1f74" />
+Donde M es la molaridad de la disolución, R es la constante universal de los gases y T es la temperatura absoluta en Kelvin.
+
+  <img width="719" height="1459" alt="image" src="https://github.com/user-attachments/assets/b6b35dba-72a1-4aa5-88c6-163743e2e4f1" />
+
+</details>
+  
+
+</td>
+
+<td width="30%">
+
+<div align="center">
+
+# ??
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+# INFORMACIÓN ADICIONAL
+<details>
+<summary><b>¿Por qué existen 4 manifestaciones de la misma propiedad?</b></summary>
+A pesar de manifestarse como cuatro fenómenos físicos aparentemente distintos (cambios de estado, equilibrio de fases y transporte de masa), todas ellas son manifestaciones de un único principio fundamental: el efecto del soluto sobre el potencial químico (o la entropía) del disolvente.
+Si analizamos un diagrama de fases, la adición de un soluto estabiliza la fase líquida al aumentar la entropía del sistema (las partículas de soluto introducen un mayor desorden molecular en el líquido). Al disminuir la presión de vapor del líquido, toda la curva de equilibrio líquido-vapor se desplaza hacia abajo en el diagrama.
+
+</details>
+
+# BIBLIOGRAFIA
+<details>
+<summary><b>Referencias</b></summary>
+
+</details>
+
+</details>
+
+<details>
+<summary><b>ESTRUCTURAS DE SOLIDOS</b></summary>
+
+<div align="center">
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="70%">
+
+# INTRODUCCIÓN
 Las partículas que componen un sólido permanecen en su lugar gracias a las fuerzas de atracción entre ellas; por ello, los sólidos se clasifican según la disposición de sus átomos, moléculas e iones.
 Cuando estos componentes se agrupan sin un orden definido, se denominan sólidos amorfos, del griego ámorphos, que significa "sin forma". En cambio, si se organizan de manera específica, se llaman sólidos cristalinos o cristales.
 
@@ -79,7 +283,7 @@ La longitud de todos sus lados es diferente y todos sus ángulos interiores son 
 
 ---
 
-## REDES DE BRAVAIS
+# REDES DE BRAVAIS
 
 De acuerdo con estas formas básicas, se conforman las redes de Bravais, y se dividen en las formas básicas, las centradas en la base, en el cuerpo y en las caras.
 Las formas básicas están compuestas por 8 átomos, moléculas o iones en cada uno de los vértices de esta, las centradas en las bases tienen dos átomos adicionales, uno en la base y otro en la cara contraria a esta, solo aparecen en formas monoclínicas y ortorrómbicas, aquellas centradas en el cuerpo tienen un único átomo adicional en el centro de la figura, aparecen en figuras ortorrómbicas, tetragonales y cubicas, por último, las centradas en las caras tienen 6 componentes adicionales, uno por cada cara de la forma, se presentan en formas ortorrómbicas y cubicas.
@@ -93,12 +297,12 @@ La combinación de estas 14 redes junto con los 32 grupos de puntos cristalográ
 
 <div align="center">
 
-## Sistema cristalino
+# Sistema cristalino
 
 <img width="250" height="235" alt="image" src="https://github.com/user-attachments/assets/6b6397ab-58c9-4d58-a074-969f6d349d84" />
 
 
-### DATOS
+## DATOS
 
 | Propiedad | Valor |
 |---|---|
@@ -116,13 +320,13 @@ La combinación de estas 14 redes junto con los 32 grupos de puntos cristalográ
 </table>
 
 ---
-## INFORMACIÓN ADICIONAL
+# INFORMACIÓN ADICIONAL
 <details>
 <summary><b>Grupos puntuales cristalográficos</b></summary>
   Existen 32 grupos punteales cristalográficos los cuales son generdos por las rotaciones propias e impropias que son compatibles con la periodicidad translacional en cada una de las formas basicas.
 </details>
 
-## BIBLIOGRAFIA
+# BIBLIOGRAFIA
 <details>
 <summary><b>Referencias</b></summary>
 Sólidos cristalinos y amorfos. (2022, October 29). https://espanol.libretexts.org/@go/page/78074
@@ -140,4 +344,3 @@ Celosías Bravais. (2022, October 29). Penn State University. https://espanol.li
 </details>
 
 </details>
-
