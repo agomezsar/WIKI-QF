@@ -134,8 +134,10 @@ Las propiedades coligativas son aquellas propiedades de las disoluciones que dep
 
 <details>
 <summary><b>1. Abatimiento de la presión de vapor</b></summary>
-Cuando se añade un soluto no volátil a un disolvente líquido puro, la presión de vapor de la disolución disminuye en comparación con el disolvente puro. A nivel molecular (como describe Brown), las partículas del soluto ocupan parte de la superficie del líquido, reduciendo el número de moléculas de disolvente que tienen la oportunidad de escapar hacia la fase gaseosa en un momento dado. Cuantitativamente, este fenómeno se rige por la Ley de Raoult, la cual establece que la presión de vapor de la disolución es directamente proporcional a la fracción molar del disolvente multiplicada por la presión de vapor del disolvente puro:
-<img width="294" height="36" alt="image" src="https://github.com/user-attachments/assets/c1b68e79-e634-4128-80e1-ae0d432345f9" />
+Cuando se añade un soluto no volátil a un disolvente líquido puro, la presión de vapor de la disolución disminuye en comparación con el disolvente puro. A nivel molecular (como describe Brown), las partículas del soluto ocupan parte de la superficie del líquido, reduciendo el número de moléculas de disolvente que tienen la oportunidad de escapar hacia la fase gaseosa en un momento dado. Cuantitativamente, este fenómeno se rige por la Ley de Raoult, la cual establece que la presión de vapor de la disolución es directamente proporcional a la fracción molar del disolvente multiplicada por la presión de vapor del disolvente puro:<br>
+
+<img width="294" height="36" alt="image" src="https://github.com/user-attachments/assets/c1b68e79-e634-4128-80e1-ae0d432345f9" /><br>
+
 Dado que la fracción molar del disolvente siempre es menor que 1 en una disolución, la presión de vapor resultante inevitablemente disminuye.
 <br>
 
