@@ -103,7 +103,10 @@ La temperatura se traduce como la energía cinética promedio de las partículas
 # BIBLIOGRAFIA
 <details>
 <summary><b>Referencias</b></summary>
-  
+Cinética_química. (s/f). Quimica.es. Recuperado el 24 de mayo de 2026, de https://www.quimica.es/enciclopedia/Cin%C3%A9tica_qu%C3%ADmica.html 
+
+Kinetic Molecular Theory. (s. f.).
+https://chemed.chem.purdue.edu/genchem/topicreview/bp/ch4/kinetic.php 
 </details>
 </details>
 
@@ -200,7 +203,8 @@ Si analizamos un diagrama de fases, la adición de un soluto estabiliza la fase 
 # BIBLIOGRAFIA
 <details>
 <summary><b>Referencias</b></summary>
-
+Brown, T. L., LeMay, H. E., Bursten, B. E., Murphy, C. J., Woodward, P. M., & Stoltzfus, M. W. (2014). Química: La ciencia central (12ª ed.). Pearson Educación.
+Chang, R., & Goldsby, K. A. (2017). Química (12ª ed.). McGraw-Hill Education.
 </details>
 
 </details>
