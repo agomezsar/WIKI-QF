@@ -148,7 +148,8 @@ Dado que la fracción molar del disolvente siempre es menor que 1 en una disoluc
 
 <details>
 <summary><b>2. Elevación del punto de ebullición</b></summary>
-El punto de ebullición de un líquido es la temperatura a la cual su presión de vapor se iguala a la presión atmosférica externa. Como la presencia de un soluto no volátil reduce la presión de vapor de la disolución, el sistema requiere más energía térmica (una temperatura más alta) para que su presión de vapor vuelva a alcanzar la presión externa y comience a hervir. Chang explica que este incremento en la temperatura de ebullición es directamente proporcional a la concentración molal (m) de la disolución:
+El punto de ebullición de un líquido es la temperatura a la cual su presión de vapor se iguala a la presión atmosférica externa. Como la presencia de un soluto no volátil reduce la presión de vapor de la disolución, el sistema requiere más energía térmica (una temperatura más alta) para que su presión de vapor vuelva a alcanzar la presión externa y comience a hervir. Chang explica que este incremento en la temperatura de ebullición es directamente proporcional a la concentración molal (m) de la disolución:<br>
+
   
 <img width="158" height="38" alt="image" src="https://github.com/user-attachments/assets/e697b7a4-c185-4470-a52c-5128330bf11b" />
 
@@ -160,9 +161,12 @@ Donde K sub e es la constante molal de elevación del punto de ebullición, una 
 
 <details>
 <summary><b>3. Abatimiento del punto de congelación</b></summary>
-El punto de congelación es la temperatura a la cual las fases líquida y sólida coexisten en equilibrio dinámico, lo que significa que sus presiones de vapor son iguales. Cuando se enfría una disolución, las partículas de soluto interfieren físicamente en el ordenamiento geométrico y la formación de los cristales del disolvente sólido. Para contrarrestar este desorden estructural y lograr la solidificación, el sistema debe perder más energía, lo que desplaza el equilibrio a una temperatura inferior a la del disolvente puro. La magnitud del descenso crioscópico se calcula mediante la relación:
-<img width="144" height="37" alt="image" src="https://github.com/user-attachments/assets/189015a3-87b0-41b8-a246-f535171cc09d" />
-Donde K sub e es la constante molal de la depresión del punto de congelación, característica de cada disolvente.
+El punto de congelación es la temperatura a la cual las fases líquida y sólida coexisten en equilibrio dinámico, lo que significa que sus presiones de vapor son iguales. Cuando se enfría una disolución, las partículas de soluto interfieren físicamente en el ordenamiento geométrico y la formación de los cristales del disolvente sólido. Para contrarrestar este desorden estructural y lograr la solidificación, el sistema debe perder más energía, lo que desplaza el equilibrio a una temperatura inferior a la del disolvente puro. La magnitud del descenso crioscópico se calcula mediante la relación:<br>
+
+<img width="144" height="37" alt="image" src="https://github.com/user-attachments/assets/189015a3-87b0-41b8-a246-f535171cc09d" /><br>
+
+Donde K sub e es la constante molal de la depresión del punto de congelación, característica de cada disolvente.<br>
+
 
 <img width="657" height="312" alt="image" src="https://github.com/user-attachments/assets/26997daf-beb7-4aeb-82be-c6e0bd056baf" />
 
@@ -170,9 +174,12 @@ Donde K sub e es la constante molal de la depresión del punto de congelación, 
 
 <details>
 <summary><b>4. Ósmosis </b></summary>
-La ósmosis es el paso neto de moléculas de disolvente a través de una membrana semipermeable (que permite el paso de disolvente pero no de soluto) desde una disolución diluida (o disolvente puro) hacia una disolución más concentrada. La presión osmótica se define como la presión hidrostática requerida para detener por completo este flujo neto de disolvente. Tanto Chang como Brown destacan que esta propiedad es crucial en sistemas biológicos y se comporta de manera análoga a la ley de los gases ideales. Para disoluciones diluidas, se expresa mediante la ecuación de van´t Hoff:
-  <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/94566103-346e-417a-8de8-b9832a9b1f74" />
-Donde M es la molaridad de la disolución, R es la constante universal de los gases y T es la temperatura absoluta en Kelvin.
+La ósmosis es el paso neto de moléculas de disolvente a través de una membrana semipermeable (que permite el paso de disolvente pero no de soluto) desde una disolución diluida (o disolvente puro) hacia una disolución más concentrada. La presión osmótica se define como la presión hidrostática requerida para detener por completo este flujo neto de disolvente. Tanto Chang como Brown destacan que esta propiedad es crucial en sistemas biológicos y se comporta de manera análoga a la ley de los gases ideales. Para disoluciones diluidas, se expresa mediante la ecuación de van´t Hoff:<br>
+
+  <img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/94566103-346e-417a-8de8-b9832a9b1f74" /><br>
+
+Donde M es la molaridad de la disolución, R es la constante universal de los gases y T es la temperatura absoluta en Kelvin.<br>
+
 
   <img width="719" height="1459" alt="image" src="https://github.com/user-attachments/assets/b6b35dba-72a1-4aa5-88c6-163743e2e4f1" />
 
@@ -231,34 +238,39 @@ Cuando estos componentes se agrupan sin un orden definido, se denominan sólidos
 ---
 
 ## FORMAS CRISTALINAS BÁSICAS
-Los sólidos cristalinos se organizan en celdas unitarias, existen siente tipos fundamentales de celdas unitarias que difieren en las longitudes relativas y ángulos de sus aristas. 
+Los sólidos cristalinos se organizan en celdas unitarias, existen siente tipos fundamentales de celdas unitarias que difieren en las longitudes relativas y ángulos de sus aristas. <br>
+
 
 <img width="200" height="252" alt="image" src="https://github.com/user-attachments/assets/0c3440d9-879d-4f88-81c6-62346e2ffa93" />
 
 <details>
 <summary><b>Forma cúbica</b></summary>
-La longitud de los lados a,b y c es igual y todos sus ángulos internos miden 90°.
+La longitud de los lados a,b y c es igual y todos sus ángulos internos miden 90°.<br>
+
   
   <img width="886" height="107" alt="image" src="https://github.com/user-attachments/assets/c5a36e3e-0741-4219-8375-bf98d00dbcd5" />
 </details>
 
 <details>
 <summary><b>Forma Tetragonal</b></summary>
-Los lados a y b son iguales y diferentes de c, todos sus ángulos internos son de 90 grados.
+Los lados a y b son iguales y diferentes de c, todos sus ángulos internos son de 90 grados.<br>
+
   
   <img width="886" height="131" alt="image" src="https://github.com/user-attachments/assets/113323a1-d25f-4b9d-826e-e030435a4af7" />
 </details>
 
 <details>
 <summary><b>Forma ortorrómbica</b></summary>
-La longitud de todos los lados es distinta y sus ángulos internos miden 90 grados.
+La longitud de todos los lados es distinta y sus ángulos internos miden 90 grados.<br>
+
   
   <img width="886" height="120" alt="image" src="https://github.com/user-attachments/assets/3fbac649-5c59-43e6-b53c-a0ca4d18dbba" />
 </details>
 
 <details>
 <summary><b>Forma monoclínica</b></summary>
-La longitud de todos sus lados es distinta, sus ángulos interno Alpha y gamma miden noventa grados y son diferentes a beta.
+La longitud de todos sus lados es distinta, sus ángulos interno Alpha y gamma miden noventa grados y son diferentes a beta.<br>
+
   
   <img width="613" height="108" alt="image" src="https://github.com/user-attachments/assets/760907c0-e9a6-4da0-a63a-4c2b35d99a28" />
 
@@ -266,14 +278,16 @@ La longitud de todos sus lados es distinta, sus ángulos interno Alpha y gamma m
 
 <details>
 <summary><b>Forma hexagonal</b></summary>
-Los lados a y b son iguales y diferentes de c, sus ángulos internos Alpha y gamma son iguales y miden 90 grados mientras que beta mide 120 grados.
+Los lados a y b son iguales y diferentes de c, sus ángulos internos Alpha y gamma son iguales y miden 90 grados mientras que beta mide 120 grados.<br>
+
   
   <img width="347" height="108" alt="image" src="https://github.com/user-attachments/assets/1e61e4bc-26de-4c32-b05e-fce2fd3e030d" />
 </details>
 
 <details>
 <summary><b>Forma romboédrica</b></summary>
-La longitud de sus lados es la misma y todos sus ángulos internos son distintos de 90 grados.
+La longitud de sus lados es la misma y todos sus ángulos internos son distintos de 90 grados.<br>
+
   
   <img width="347" height="100" alt="image" src="https://github.com/user-attachments/assets/923a6d2d-3792-42bb-9440-05855b5d7320" />
 
@@ -281,7 +295,8 @@ La longitud de sus lados es la misma y todos sus ángulos internos son distintos
 
 <details>
 <summary><b>Forma triclínica</b></summary>
-La longitud de todos sus lados es diferente y todos sus ángulos interiores son diferentes a 90 grados.
+La longitud de todos sus lados es diferente y todos sus ángulos interiores son diferentes a 90 grados.<br>
+
   <img width="481" height="97" alt="image" src="https://github.com/user-attachments/assets/a4937abc-a32c-4e3d-a839-3d3cb8878083" />
 
 </details>
@@ -292,9 +307,11 @@ La longitud de todos sus lados es diferente y todos sus ángulos interiores son 
 # REDES DE BRAVAIS
 
 De acuerdo con estas formas básicas, se conforman las redes de Bravais, y se dividen en las formas básicas, las centradas en la base, en el cuerpo y en las caras.
-Las formas básicas están compuestas por 8 átomos, moléculas o iones en cada uno de los vértices de esta, las centradas en las bases tienen dos átomos adicionales, uno en la base y otro en la cara contraria a esta, solo aparecen en formas monoclínicas y ortorrómbicas, aquellas centradas en el cuerpo tienen un único átomo adicional en el centro de la figura, aparecen en figuras ortorrómbicas, tetragonales y cubicas, por último, las centradas en las caras tienen 6 componentes adicionales, uno por cada cara de la forma, se presentan en formas ortorrómbicas y cubicas.
+Las formas básicas están compuestas por 8 átomos, moléculas o iones en cada uno de los vértices de esta, las centradas en las bases tienen dos átomos adicionales, uno en la base y otro en la cara contraria a esta, solo aparecen en formas monoclínicas y ortorrómbicas, aquellas centradas en el cuerpo tienen un único átomo adicional en el centro de la figura, aparecen en figuras ortorrómbicas, tetragonales y cubicas, por último, las centradas en las caras tienen 6 componentes adicionales, uno por cada cara de la forma, se presentan en formas ortorrómbicas y cubicas.<br>
 
-  <img width="867" height="638" alt="image" src="https://github.com/user-attachments/assets/7f9522bc-2dd2-4d39-8492-b91b2bacb740" />
+
+  <img width="867" height="638" alt="image" src="https://github.com/user-attachments/assets/7f9522bc-2dd2-4d39-8492-b91b2bacb740" /><br>
+
 La combinación de estas 14 redes junto con los 32 grupos de puntos cristalográficos da lugar a los 230 grupos espaciales los cuales describen todas las combinaciones posibles de simetría para celdas unitarias en tres dimensiones.  
 
 </td>
