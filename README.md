@@ -208,7 +208,9 @@ Donde M es la molaridad de la disolución, R es la constante universal de los ga
 
 <div align="center">
 
-# ??
+
+<img width="1122" height="1328" alt="image" src="https://github.com/user-attachments/assets/f783a4b9-809e-40c1-9ff8-095861e21ee9" />
+
 
 </div>
 
