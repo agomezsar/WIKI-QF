@@ -17,7 +17,10 @@ En esta wiki se exploran conceptos fundamentales relacionados con la teoría cin
 <td width="70%">
 
 # CINÉTICA
-La cinética química es el campo de la química que se ocupa de la rapidez o velocidad con la que ocurren las reacciones químicas, es decir, la desaparición de reactivos para convertirse en productos; así como de los mecanismos de las mismas.
+La cinética química es el campo de la química que se ocupa de la rapidez o velocidad con la que ocurren las reacciones químicas, es decir, la desaparición de reactivos para convertirse en productos; así como de los mecanismos de las mismas.<br>
+
+<img width="1009" height="546" alt="image" src="https://github.com/user-attachments/assets/ce5c1baf-8308-4760-8305-17a0d916dcf2" />
+
 
 ---
 
@@ -27,34 +30,46 @@ La cinética química es el campo de la química que se ocupa de la rapidez o ve
 - Estas partículas son mucho más pequeñas que la distancia entre ellas. Por lo tanto, la mayor parte del volumen de un gas es espacio vacío.
 - No existe fuerza de atracción entre las partículas de gas ni entre las partículas y las paredes del recipiente.
 - Las colisiones entre partículas de gas o con las paredes del recipiente son perfectamente elásticas. Ninguna partícula de gas pierde energía al colisionar con otra partícula o con las paredes del recipiente.
-- La energía cinética promedio de un conjunto de partículas de gas depende de la temperatura del gas y de nada más.
+- La energía cinética promedio de un conjunto de partículas de gas depende de la temperatura del gas y de nada más.<br>
+<img width="350" height="372" alt="image" src="https://github.com/user-attachments/assets/b0d7403b-5330-4a57-92c4-f3fb1dc143b4" />
+
 <details>
 <summary><b>COMPROBACIONES EXPERIMENTALES</b></summary>
 <details>
 <summary><b>Movimiento constante de las particulas.</b></summary>
-El olor de un spray (por ejemplo, un ambientador) expandiéndose por una habitación.
-  
+El olor de un spray (por ejemplo, un ambientador) expandiéndose por una habitación.<br>
+ <img width="292" height="230" alt="image" src="https://github.com/user-attachments/assets/2789fbd9-6131-4857-8c36-1120c807d140" />
 </details>
 
 <details>
 <summary><b>Gran espacio vacío entre las particulas.</b></summary>
-Cuando tapas una jeringa y presionas el émbolo el aire se puede comprimir fácilmente, esto demuestra que las partículas están bastante separadas entre sí.
+Cuando tapas una jeringa y presionas el émbolo el aire se puede comprimir fácilmente, esto demuestra que las partículas están bastante separadas entre sí.<br>
+<img width="292" height="314,6" alt="image" src="https://github.com/user-attachments/assets/25b584f2-846d-4b57-9213-d28a5fdb2762" />
+
 </details>
 
 <details>
 <summary><b>Las coliciones producen presión.</b></summary>
-Cuando un globo se calienta, el gas en su interior se expande porque las partículas se mueven más rápido.
+Cuando un globo se calienta, el gas en su interior se expande porque las partículas se mueven más rápido.<br>
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/2bc02c69-f1cb-4cd1-a650-0006ee4cba73" />
+</details>
+
+<details>
+<summary><b>Relación entre temperatura y movimiento.</b></summary>
+Cuando un globo se calienta, el gas en su interior se expande porque las partículas se mueven más rápido. <br>
+<img width="284" height="175" alt="image" src="https://github.com/user-attachments/assets/54129382-52e7-4b6c-ba6c-3589b50a6c42" />
 </details>
 
 <details>
 <summary><b>Coliciones elásticas.</b></summary>
-El choque entre partículas puede compararse con bolas de billar chocando entre sí; el movimiento se transfiere sin pérdida significativa de energía.
-
+El choque entre partículas puede compararse con bolas de billar chocando entre sí; el movimiento se transfiere sin pérdida significativa de energía.<br>
+<img width="286" height="202" alt="image" src="https://github.com/user-attachments/assets/c2cc970e-649a-4d5f-9c32-4062c383abb2" />
 </details>
 
 <details>
 <summary><b>Relación entre presión y volumen.</b></summary>
-Cuando introduces más aire en un balón, las coliciones de las partículas aumentan, por lo tanto.
+Cuando introduces más aire en un balón, las coliciones de las partículas aumentan, por lo tanto. <br>
+<img width="414" height="289" alt="image" src="https://github.com/user-attachments/assets/4472426a-8237-438d-91f7-50f54670f481" />
 </details>
 
 </details>
@@ -73,6 +88,7 @@ Cuando introduces más aire en un balón, las coliciones de las partículas aume
 
 Las propiedades macroscópicas de los gases dependen directamente del movimiento y la energía de sus partículas. Entre las más importantes se encuentran la presión, el volumen y la temperatura.
 
+<img width="814" height="985" alt="image" src="https://github.com/user-attachments/assets/75c7a74c-2835-479a-87f4-a1bf063d4952" />
 
 
 </div>
