@@ -385,3 +385,9 @@ Celosías Bravais. (2022, October 29). Penn State University. https://espanol.li
 </details>
 
 </details>
+
+## AUTORES
+
+-ACOSTA ALDANA LOREN VICTORIA<br>
+-CORREDOR CONTRERAS SARAH MICHELLE<br>
+-GOMEZ SARMIENTO ANGELA MARIA<br>
